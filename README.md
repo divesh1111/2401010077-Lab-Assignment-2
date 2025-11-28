@@ -33,9 +33,9 @@ Delete Student
 
 Exit Application
 
-✔ Concepts Implemented Concept Description Abstract Class Person is an abstract parent class Inheritance Student extends Person Interface RecordActions defines CRUD methods Method Overloading calculateGrade() for int & double Method Overriding displayInfo() in Student Polymorphism Common interface for record operations Encapsulation Organized, modular class structure HashMap Storage Student records stored by Roll No 🛠️ 
+✔ Concepts Implemented Concept Description Abstract Class Person is an abstract parent class Inheritance Student extends Person Interface RecordActions defines CRUD methods Method Overloading calculateGrade() for int & double Method Overriding displayInfo() in Student Polymorphism Common interface for record operations Encapsulation Organized, modular class structure HashMap Storage Student records stored by Roll No.
 
-Technologies Used:
+🛠️ Technologies Used:
 
 Java
 
